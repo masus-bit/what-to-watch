@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "axios": "0.19.2",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "lodash.merge": "^4.6.2",
     "moment": "^2.27.0",
     "react": "^16.13.1",
